@@ -21,4 +21,16 @@
 # Creating and deleting directories 
 1. mkdir specify
 2. redir specify - can't delete if has information in there already
+3. rm -r directory , recursive delete
 
+# write and read files
+
+1. echo - prints what we gave it in the '' after echo
+2. echo 'what needs to be inputed in our file' > hello.txt
+3. above more or less it rewrites the exsiting file, we use >> , this means appends rather than rewriting
+4. 
+
+# Read from files
+1. cat hello.txt - read 
+2. cat .txt > another.txt , rewrites the content from .txt to another.txt, can use >> to append
+3. nicerrr 
